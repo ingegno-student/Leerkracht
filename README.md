@@ -11,3 +11,7 @@ Ik ben ~~Henri~~ **_Benny_**
 2. md leren schrijven
 3. html maken
 
+# Het resultaat
+[Mijn website](https://ingegno-student.github.io/Leerkracht/)
+
+Gemaakt na veel :coffee:
