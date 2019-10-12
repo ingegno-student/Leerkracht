@@ -15,3 +15,6 @@ Ik ben ~~Henri~~ **_Benny_**
 [Mijn website](https://ingegno-student.github.io/Leerkracht/)
 
 Gemaakt na veel :coffee:
+
+# Nuttige links
+[Emoji in github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
