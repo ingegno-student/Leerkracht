@@ -16,5 +16,7 @@ Ik ben ~~Henri~~ **_Benny_**
 
 Gemaakt na veel :coffee:
 
+Voorbeeld vqn een figuur: ![Mijn leeuw](https://www.dezonnegloed.be/src/Frontend/Files/Media/Images/800x/leeuw.jpg)
+
 # Nuttige links
 [Emoji in github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
