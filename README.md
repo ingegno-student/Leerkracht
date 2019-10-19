@@ -26,3 +26,6 @@ We gebruiken md files, net zoals deze README.md! De opmaak doe je door speciale 
 Gemaakt na veel :coffee:
 
 Voorbeeld vqn een figuur: ![Mijn leeuw](https://www.dezonnegloed.be/src/Frontend/Files/Media/Images/800x/leeuw.jpg)
+
+# Jekyll leren
+We volgen [deze handleiding](https://jekyllrb.com/docs/step-by-step/01-setup/)
